@@ -1,7 +1,7 @@
 export default function Hero(){
     return (
         <div className="hero">
-            <div>
+            <div className="text-container">
                 <h1 className="heading">
                     YOUR FEET
                     DESERVE
