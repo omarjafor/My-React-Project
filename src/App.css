@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+.menuList{
+    display: flex;
+    align-items: centers;
+    gap: 24px;
+    list-style: none;
+}
+button{
+    padding: 6px 16px;
+    background-color: #D01C28;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
