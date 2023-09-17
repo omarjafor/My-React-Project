@@ -2,7 +2,7 @@ export default function Navbar(){
     return(
         <div className='navbar'>
             <div className="logo">
-                <img src="src/image/brand_logo.png" alt="" />
+                <img src="./image/brand_logo.png" alt="" />
             </div>
             <div>
                 <ul className="menuList">
