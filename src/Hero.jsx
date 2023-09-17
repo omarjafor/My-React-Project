@@ -14,12 +14,12 @@ export default function Hero(){
                 </div>
                 <div>
                     <p>Also Available On</p>
-                    <img src="src/image/flipkart.png" alt=""/>
-                    <img src="src/image/amazon.png" alt=""/>
+                    <img src="./image/flipkart.png" alt=""/>
+                    <img src="./image/amazon.png" alt=""/>
                 </div>
             </div>
             <div className="shoe-img">
-                <img src="src/image/shoe_image.png" alt="" />
+                <img src="./image/shoe_image.png" alt="" />
             </div>
         </div>
     )
