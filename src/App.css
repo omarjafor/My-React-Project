@@ -22,10 +22,10 @@ button{
 /* Hero working here .........  */
 .hero{
     display: flex;
-    align-items: center;
+    justify-content: space-evenly;
     gap: 30px;
     height: calc(100vh - 180px);
-    max-width: 1125px;
+    max-width: 1440px;
 }
 .text-container{
     max-width: 595px;
