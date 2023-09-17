@@ -40,3 +40,27 @@ button{
 .shoe-img{
     margin-top: 100px;
 }
+.btn-1{
+        color: #FFF;
+        font-family: Inter;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        padding: 6px 16px;
+}
+.btn-2{
+        color: var(--GRAY, #5A5959);
+        font-family: Inter;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        padding: 6px 16px;
+        margin-left: 40px;
+        background-color: #FFF;
+        border: 1px solid #000;
+}
+.text-container img{
+    margin-right: 16px;
+}

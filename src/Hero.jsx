@@ -9,8 +9,8 @@ export default function Hero(){
                 </h1>
                 <p>YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR SHOES.YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR SHOES.</p>
                 <div>
-                    <button>Shop Now</button>
-                    <button>Category</button>
+                    <button className="btn-1">Shop Now</button>
+                    <button className="btn-2">Category</button>
                 </div>
                 <div>
                     <p>Also Available On</p>
