@@ -22,18 +22,21 @@ button{
 /* Hero working here .........  */
 .hero{
     display: flex;
+    align-items: center;
     justify-content: space-evenly;
     gap: 30px;
     height: calc(100vh - 180px);
-    max-width: 1440px;
 }
 .text-container{
-    max-width: 595px;
-    gap: 36px;
+    width: 650px;
+    gap: 30px;
 }
 .heading{
     color: black;
     font-size: 108px;
     font-weight: 800;
     line-height: 102px;
+}
+.shoe-img{
+    margin-top: 100px;
 }

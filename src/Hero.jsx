@@ -18,7 +18,7 @@ export default function Hero(){
                     <img src="src/image/amazon.png" alt=""/>
                 </div>
             </div>
-            <div>
+            <div className="shoe-img">
                 <img src="src/image/shoe_image.png" alt="" />
             </div>
         </div>
