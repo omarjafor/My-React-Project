@@ -1,3 +1,7 @@
+import shoes from './image/shoe_image.png'
+import flipkart from './image/flipkart.png'
+import amazon from './image/amazon.png'
+
 export default function Hero(){
     return (
         <div className="hero">
@@ -14,12 +18,12 @@ export default function Hero(){
                 </div>
                 <div>
                     <p>Also Available On</p>
-                    <img src="./image/flipkart.png" alt=""/>
-                    <img src="./image/amazon.png" alt=""/>
+                    <img src={flipkart} alt=""/>
+                    <img src={amazon} alt=""/>
                 </div>
             </div>
             <div className="shoe-img">
-                <img src="./image/shoe_image.png" alt="" />
+                <img src={shoes} alt="" />
             </div>
         </div>
     )

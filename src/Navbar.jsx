@@ -1,8 +1,10 @@
+import logo from './image/brand_logo.png'
+
 export default function Navbar(){
     return(
         <div className='navbar'>
             <div className="logo">
-                <img src="./image/brand_logo.png" alt="" />
+                <img src={logo} alt="" />
             </div>
             <div>
                 <ul className="menuList">
