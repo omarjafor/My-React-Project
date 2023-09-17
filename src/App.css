@@ -34,11 +34,10 @@ button{
 .heading{
     color: black;
     font-size: 108px;
-    font-weight: 800;
     line-height: 102px;
 }
 .shoe-img{
-    margin-top: 100px;
+    margin-top: 150px;
 }
 .btn-1{
         color: #FFF;
@@ -63,4 +62,13 @@ button{
 }
 .text-container img{
     margin-right: 16px;
+}
+.text-container p{
+    width: 404px;
+    color: var(--GRAY, #5A5959);
+        font-family: Poppins;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
 }
